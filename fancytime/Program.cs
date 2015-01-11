@@ -11,7 +11,6 @@ namespace fancytime
 
 			var now = DateTime.Now;
 
-
 			//because I want the 23:00:00 clock from 22:45:00 on, the 
 			//17:30:00 clock from 17:15:00 on, etc. 
 			//so we always show the closes half hour. 
@@ -22,6 +21,9 @@ namespace fancytime
 			string clock = arr [nowClock.Hour % 12];
 
 			Console.WriteLine ("{0} {1}:{2}:{3}", clock, now.Hour.ToString("00"), now.Minute.ToString("00"), now.Second.ToString("00"));
+			Console.WriteLine ("{0} {1}:{2}:{3}", clock, now.Hour.ToString("00"), now.Minute.ToString("00"), now.Second.ToString("00"));
+			Console.WriteLine ("#" +
+				"ffffff", clock, now.Hour.ToString("00"), now.Minute.ToString("00"), now.Second.ToString("00"));
 		}
 	}
 }

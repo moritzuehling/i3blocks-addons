@@ -1,9 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="fancytime/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mailstatus/Program.cs">
     <Files>
-      <File FileName="fancytime/Program.cs" Line="4" Column="4" />
+      <File FileName="fancytime/Program.cs" Line="6" Column="6" />
+      <File FileName="mailstatus/Program.cs" Line="4" Column="4" />
+      <File FileName="mailstatus/cookie.txt" Line="78" Column="78" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="fancytime" expanded="True" />
+          <Node name="mailstatus" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

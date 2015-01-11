@@ -6,6 +6,8 @@
 *.user
 *.sln.docstates
 
+cookie.txt
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
